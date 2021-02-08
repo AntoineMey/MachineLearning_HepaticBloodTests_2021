@@ -1,11 +1,11 @@
-# Data Analysis + Machine Learning 
+### Data Analysis + Machine Learning 
 
-# Hepatic blood tests from 615 patients
+#### Hepatic blood tests from 615 patients
 Based on the original Kaggle dataset : 
 https://www.kaggle.com/fedesoriano/hepatitis-c-dataset
 
 
-# Content 
+#### Content 
 
 All attributes except Category and Sex are numerical.
 
@@ -28,14 +28,14 @@ Attributes 5 to 14 refer to laboratory data:
 
 The target attribute for classification is Category (2): blood donors vs. Hepatitis C patients (including its progress ('just' Hepatitis C, Fibrosis, Cirrhosis).
 
-# Acknowledgements
+#### Acknowledgements
 
 Creators: Ralf Lichtinghagen, Frank Klawonn, Georg Hoffmann
 Donor: Ralf Lichtinghagen: Institute of Clinical Chemistry; Medical University Hannover (MHH); Hannover, Germany; lichtinghagen.ralf '@' mh-hannover.de
 Donor: Frank Klawonn; Helmholtz Centre for Infection Research; Braunschweig, Germany; frank.klawonn '@' helmholtz-hzi.de
 Donor: Georg Hoffmann; Trillium GmbH; Grafrath, Germany; georg.hoffmann '@' trillium.de
 
-# Relevant Papers
+#### Relevant Papers
 
 Lichtinghagen R et al. J Hepatol 2013; 59: 236-42
 Hoffmann G et al. Using machine learning techniques to generate laboratory diagnostic pathways â€“ a case study. J Lab Precis Med 2018; 3: 58-67
