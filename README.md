@@ -5,6 +5,7 @@ Based on the original Kaggle dataset :
 https://www.kaggle.com/fedesoriano/hepatitis-c-dataset
 
 
+<br>
 #### Content 
 
 All attributes except Category and Sex are numerical.
