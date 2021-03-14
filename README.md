@@ -27,7 +27,7 @@ Attributes 5 to 14 refer to laboratory data:
 13) GGT = Gamma-Glutamyl Transferase
 14) PROT = Proteins
 
- #### Target attributes for illness classification  :  
+ ##### Target attributes for illness classification  :  
 - Blood donors (hepaticly sane) 
 - Hepatitis C 
 - Fibrosis 
