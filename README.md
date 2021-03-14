@@ -1,6 +1,6 @@
 ## Given the blood test results of a patient, <br> can we set an accurate machine learning model <br> for hepatic illness diagnosis ? 
 
-#### Hepatic blood tests from 615 patients
+#### We have blood tests results from 615 patients
 Based on the original Kaggle dataset : 
 https://www.kaggle.com/fedesoriano/hepatitis-c-dataset
 
@@ -10,7 +10,7 @@ https://www.kaggle.com/fedesoriano/hepatitis-c-dataset
 
 All attributes except Category and Sex are numerical.
 
-Attributes 1 to 4 refer to the data of the patient:
+##### Attributes 1 to 4 refer to the data of the patient:
 1) X (Patient ID/No.)
 2) Category (diagnosis) (values: '0=Blood Donor', '0s=suspect Blood Donor', '1=Hepatitis', '2=Fibrosis', '3=Cirrhosis')
 3) Age (in years)
@@ -27,7 +27,7 @@ Attributes 5 to 14 refer to laboratory data:
 13) GGT = Gamma-Glutamyl Transferase
 14) PROT = Proteins
 
-The target attributes for illness classification  : 
+ #### Target attributes for illness classification  :  
 - Blood donors (hepaticly sane) 
 - Hepatitis C 
 - Fibrosis 
