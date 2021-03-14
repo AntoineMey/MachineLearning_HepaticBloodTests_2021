@@ -16,18 +16,25 @@ Attributes 1 to 4 refer to the data of the patient:
 3) Age (in years)
 4) Sex (f,m)
 Attributes 5 to 14 refer to laboratory data:
-5) ALB
-6) ALP
-7) ALT
-8) AST
-9) BIL
-10) CHE
-11) CHOL
-12) CREA
-13) GGT
-14) PROT
+5) ALB = Albumin
+6) ALP = Alkaline phosphatase
+7) ALT = Alanine Transaminase
+8) AST = Aspartate Transaminase
+9) BIL = Bilirubin
+10) CHE = Acetylcholinesterase
+11) CHOL = Cholesterol
+12) CREA = Creatinine 
+13) GGT = Gamma-Glutamyl Transferase
+14) PROT = Proteins
 
-The target attribute for classification is Category (2): blood donors vs. Hepatitis C patients (including its progress ('just' Hepatitis C, Fibrosis, Cirrhosis).
+The target attributes for illness classification  : 
+- Blood donors (hepaticly sane) 
+- Hepatitis C 
+- Fibrosis 
+- Cirrhosis
+
+
+
 
 #### Acknowledgements
 
