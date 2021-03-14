@@ -1,4 +1,4 @@
-### Data Analysis + Machine Learning 
+## Given the blood test results of a patient, <br> can we set an accurate machine learning model <br> for hepatic illness diagnosis ? 
 
 #### Hepatic blood tests from 615 patients
 Based on the original Kaggle dataset : 
