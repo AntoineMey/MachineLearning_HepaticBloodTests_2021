@@ -33,17 +33,3 @@ Attributes 5 to 14 refer to laboratory data:
 - Fibrosis 
 - Cirrhosis
 
-
-
-
-#### Acknowledgements
-
-Creators: Ralf Lichtinghagen, Frank Klawonn, Georg Hoffmann
-Donor: Ralf Lichtinghagen: Institute of Clinical Chemistry; Medical University Hannover (MHH); Hannover, Germany; lichtinghagen.ralf '@' mh-hannover.de
-Donor: Frank Klawonn; Helmholtz Centre for Infection Research; Braunschweig, Germany; frank.klawonn '@' helmholtz-hzi.de
-Donor: Georg Hoffmann; Trillium GmbH; Grafrath, Germany; georg.hoffmann '@' trillium.de
-
-#### Relevant Papers
-
-Lichtinghagen R et al. J Hepatol 2013; 59: 236-42
-Hoffmann G et al. Using machine learning techniques to generate laboratory diagnostic pathways â€“ a case study. J Lab Precis Med 2018; 3: 58-67
